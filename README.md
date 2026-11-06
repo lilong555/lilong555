@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm looking for internship opportunities in AI Agent Infrastructure / Development or AI Infrastructure (Inference), based in Shanghai or Hangzhou.
+Email : 18577171104@163.com
 <!--
 **lilong555/lilong555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
